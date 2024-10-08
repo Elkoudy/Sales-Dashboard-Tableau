@@ -4,6 +4,11 @@
 
 This project presents a Tableau dashboard offering a thorough analysis of sales performance in 2023. It highlights key metrics, trends, and insights through various visualizations, helping support data-driven decision-making.
 
+![Sales Dashboard](Images/Sales%20Dashboard-Without%20Filter.png)
+
+![Sales Dashboard](Images/Sales%20Dashboard-With%20Filter.png)
+
+
 ## Project Structure
 
 The project is organized into the following main directories:
@@ -20,8 +25,13 @@ Sales-Dashboard-Tableau/
 │   └── Dashboard Icons/
 │       └── [Icons used in the dashboard]
 │
+├── Images/
+│   ├── Sales Dashboard-With Filter.png
+│   └── Sales Dashboard-Without Filter.png
+│
 └── Tableau/
     └── Sales_Dashboard.twb
+
 ```
 
 ## Project Files
@@ -35,6 +45,9 @@ Sales-Dashboard-Tableau/
 
 - **Dashboard Icons Folder**
   - Contains icons used in the dashboard.
+
+- **Images Folder**
+  - Contains dashboard screenshots.
 
 - **Tableau Folder**
   - Sales_Dashboard.twb: Tableau workbook containing the sales dashboard.
